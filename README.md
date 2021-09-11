@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clayton Strike.
 - 👀 I’m interested in everything! I'm too green to know what I like and what I don't. 
-- 🌱 I’m currently learning Linux and SQL.
+- 🌱 I’m currently learning React, Express and Node. 
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me: cms351@txstate.edu
 
