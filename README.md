@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything! I'm too green to know what I like and what I don't. 
 - 🌱 I’m currently reviewing data structures and algorithms. 
 - 💞️ I’m looking to collaborate on anything interesting!
-- 📫 How to reach me: cms351@txstate.edu
+- 📫 How to reach me: cstrike2@outlook.com
 
 <!---
 cstrike2/cstrike2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
